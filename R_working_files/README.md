@@ -1,3 +1,7 @@
 ### RStudio Basics:
 
-***Working Directory***
+***Working Directory*** :
+
+                                      
+                                            getwd()
+                                            setwd()
